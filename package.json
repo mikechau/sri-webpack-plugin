@@ -31,7 +31,7 @@
   "homepage": "https://github.com/mikechau/sri-stats-webpack-plugin#readme",
   "devDependencies": {
     "@tap-format/spec": "git+https://github.com/tap-format/spec.git",
-    "eslint": "^1.10.3",
+    "eslint": "^2.13.0",
     "eslint-config-airbnb": "^2.1.1",
     "glob": "^6.0.1",
     "tape": "^4.2.2",
