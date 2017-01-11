@@ -42,7 +42,7 @@
     "webpack": "^1.13.1"
   },
   "dependencies": {
-    "webpack-custom-stats-patch": "^0.3.0"
+    "webpack-custom-stats-patch": "^1.0.1"
   },
   "peerDependencies": {
     "webpack": "~1.x"
